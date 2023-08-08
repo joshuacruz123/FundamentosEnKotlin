@@ -18,6 +18,7 @@ fun main() {
         cantidad +=1
     }
 
+
     if (cantidad > 0){
         if(cantidad >= 100){
             print("Has recibido $cantidad notificaciones.")
